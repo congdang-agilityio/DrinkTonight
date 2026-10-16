@@ -1,0 +1,18 @@
+{
+  "extraKnownMarketplaces": {
+    "agile-squad": {
+      "source": {
+        "source": "github",
+        "repo": "congdang-agilityio/agile-squad"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "squad@agile-squad": true
+  },
+  "permissions": {
+    "allow": [
+      "Bash(gh pr merge:*)"
+    ]
+  }
+}
